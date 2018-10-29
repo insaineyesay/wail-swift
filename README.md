@@ -1,2 +1,10 @@
 # wail-swift
 What Am I Learning for Swift 4 dev
+
+Inspired by kursivee's wail-andorid - https://github.com/kursivee/wail-andorid/blob/master/README.md
+
+## Previous Knowledge
+* Nothing
+
+## Core
+* 0_0
