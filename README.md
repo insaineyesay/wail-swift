@@ -7,4 +7,4 @@ Inspired by kursivee's wail-andorid - https://github.com/kursivee/wail-andorid/b
 * Nothing
 
 ## Core
-* 0_0
+* Weaver - https://github.com/scribd/Weaver - Dependency injection for swift
