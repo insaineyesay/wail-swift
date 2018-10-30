@@ -7,7 +7,7 @@ Inspired by kursivee's wail-andorid - https://github.com/kursivee/wail-andorid/b
 * Nothing
 
 ## Prelearn
-* [Weaver}(https://github.com/scribd/Weaver) - Dependency injection for Swift
+* [Weaver](https://github.com/scribd/Weaver) - Dependency injection for Swift
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Logging library for Swift
 
 ## Core
