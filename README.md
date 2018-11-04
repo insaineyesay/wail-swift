@@ -10,7 +10,7 @@ To obtain as much experience and research as possible regarding the most efficie
 * Documentation
 * Unit Testing
 * Standards
-* 
+* Being owned by frameworks and plugins
 
 ## Prelearn
 * [Weaver](https://github.com/scribd/Weaver) - Dependency injection for Swift
